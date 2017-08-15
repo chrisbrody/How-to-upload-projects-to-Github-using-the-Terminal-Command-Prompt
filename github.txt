@@ -1,0 +1,22 @@
+GITHUB 1.1 - Intro to video for uploading to GitHub
+GITHUB 1.2 - Getting to the right place
+GITHUB 1.3 - Loading up new projects
+GITHUB 1.4 - Viewing project code in Github
+GITHUB 1.5 - Uploading changes to GitHub
+GITHUB 1.5 - Outro to video for uploading to GitHub
+
+
+
+GITHUB 1.1 - Intro to video for uploading to GitHub
+Chris from Codify Academy here.
+In this video I'm going walk you through uploading 3 projects to GitHub, I’ll Show you how to view your code we upload to Github, How to upload changes made to projects and how to get any uploaded project code you want from any computer.
+
+GITHUB 1.2 - Getting to the right place
+GITHUB 1.3 - Loading up new projects
+GITHUB 1.4 - Viewing project code in Github
+GITHUB 1.5 - Uploading changes to GitHub
+GITHUB 1.6 - Getting projects from anywhere
+
+
+GITHUB 1.7 - Outro to video for uploading to GitHub
+That’s it for this video, we created some of your first repositories, learned how to view Code on GitHub, Made some changes to a project and uploaded that. and finally we learned how to grab a project and get it on to any computer so you can make changes and add it back to GitHub.
